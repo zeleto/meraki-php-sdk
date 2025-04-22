@@ -1,5 +1,6 @@
 {
     "name": "zeleto/meraki-php-sdk",
+    "version": "0.1",
     "description": "OpenAPI generated PHP SDK for Meraki's RESTful API.",
     "keywords": [
         "openapitools",
