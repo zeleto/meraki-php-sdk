@@ -1,4 +1,4 @@
-# OpenAPIClient-php
+# OpenAPI based PHP SDK for Meraki's Rest API.
 
 A RESTful API to programmatically manage and monitor Cisco Meraki networks at scale.
 
